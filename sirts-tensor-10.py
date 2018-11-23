@@ -34,7 +34,7 @@ pep_file = "D:\\Programming\\Python\\sirts\\peptides.csv"       # home computer
 protein_ID = "NP_000516.3"  # Kir6.2
 # protein_ID = "NP_005682.2"  # SUR2A
 # protein_ID = "NP_001276674.1"   # GAPDH
-Entrez.email = "william.coetzee@nyu.edu"
+Entrez.email = "add your email address here"
 confidence = 80
 # -------------------------------------------------------------------
 # Do not edit below these lines
